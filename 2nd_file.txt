@@ -1,2 +1,3 @@
 i am file 2
 line 2 added
+line 3 added
